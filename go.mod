@@ -1,4 +1,4 @@
-module learn/hello
+module learn/go-learn
 
 go 1.21.0
 
